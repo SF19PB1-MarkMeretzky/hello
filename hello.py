@@ -1,7 +1,7 @@
 """
 hello.py
 
-It prints "hello".
+This python program prints "hello" (followed by an invisible newline character).
 """
 
 import sys
