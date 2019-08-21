@@ -1,2 +1,2 @@
 # hello
-It prints "hello".
+This Python program prints "hello".
